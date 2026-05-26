@@ -218,3 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 csv's/mlb_2024-2026.csv
+notebooks/eda.ipynb
